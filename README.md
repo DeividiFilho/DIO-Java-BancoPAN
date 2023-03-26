@@ -1,4 +1,4 @@
-# DIO-Java-BancoPAM
+# DIO-Java-BancoPAN
 O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha completa em Java Spring BootO primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha completa em Java Spring Boot
 
 Conteúdo: 
