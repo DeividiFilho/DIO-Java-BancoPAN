@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequet": {
+                "Item": {
+                    "Artist": {"S": "Pink Floyd"},
+                    "SongTitle": {"S": "Wish You Were Here"},
+                    "AlbumTitle": {"S": "Wish You Were Here"},
+                    "SongYear": {"S": "1975"}
+                }
+            }
+        },
+        {  
+            "PutRequet":{
+                "Item": {
+                    "Artist": {"S": "Pink Floyd"},
+                    "SongTitle": {"S": "Have a Cigar"},
+                    "AlbumTitle": {"S": "Wish You Were Here"},
+                    "SongYear": {"S": "1975"}
+                }
+            }
+        },
+        {
+            "PutRequet": {
+                "Item": {
+                    "Artist": {"S": "Pink Floyd"},
+                    "SongTitle": {"S": "Welcome to the machine"},
+                    "AlbumTitle": {"S": "Wish You Were Here"},
+                    "SongYear": {"S": "1975"}
+                }
+            }
+        }
+    ]
+}

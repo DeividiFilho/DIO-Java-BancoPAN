@@ -1,0 +1,6 @@
+{
+    "Artist": {"S": "Pink Floyd"},
+    "SongTitle": {"S": "Wish You Were Here"},
+    "AlbumTitle": {"S": "Wish You Were Here"},
+    "SongYear": {"S": "1975"}
+}
